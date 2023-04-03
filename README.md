@@ -7,7 +7,7 @@
    
 * #### :bell::bell::bell:小火箭模块建议搭配[基础配置文件](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)使用，避免冗余  
 * #### ！！！若某个模块时而生效时而失效，请检查其他模块的主机名前是否添加了%APPEND%，没有添加会导致导致其他模块失效。本仓库模块均添加了%APPEND%
-* #### surge用户也可直接使用小火箭模块
+
 
 
   
@@ -41,7 +41,6 @@
 |:white_check_mark:dailyyoga|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dailyyoga.module)|每日瑜伽
 |:white_check_mark:大蓝鲸|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dalanjing.module)|视听互动
 |:white_check_mark:darkroom|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/darkroom.module)|照片编辑
-|❌豆瓣|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/douban.sgmodule)|豆瓣网页播放按钮
 |:white_check_mark:读书笔记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dsbj.module)|笔记类
 |:white_check_mark:第一弹|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/dyd.module)|二次元游戏综合社区
 |:white_check_mark:儿哥点点|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/egdd.module)|幼儿类
@@ -115,7 +114,6 @@
 |:white_check_mark:tangerine|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tangerine.module)|银行类
 |:white_check_mark:tenpercent|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tenpercent.module)|健康类
 |:white_check_mark:迅雷|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/thunder.module)|迅雷会员
-|❌TidalPlus|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/TidalPlus.sgmodule)|失效
 |:white_check_mark:tok cam|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tokcam.module)|相机类
 |:white_check_mark:图图记账|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/tutu.module)|账目类
 |:white_check_mark:vista看天下|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/vista.module)|vista看天下会员
@@ -140,7 +138,6 @@
 |:white_check_mark:亦飞GIF|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/yifeigif.module)|照片编辑
 |:white_check_mark:一甜相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/yitian.module)|一甜相机解锁
 |:white_check_mark:一言|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/yiyan.module)|一言解锁
-|:white_check_mark:youtube去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/YouTubeAd.sgmodule)|不适合最新版
 |:white_check_mark:云听|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/yunting.module)|云听解锁
 |:white_check_mark:语文趣配音|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ywqpy.module)|配音类
 |:white_check_mark:斑马海报|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zebra.module)|设计类
@@ -164,12 +161,11 @@
 |:white_check_mark:BILI自动地区|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bili-region.module)|bili自动地区
 |:white_check_mark:影视双字幕项目|[:link:链接地址](https://github.com/DualSubs/DualSubs)|包含youtube,appleTV,hbo等
 |:white_check_mark:iRingo项目|[:link:链接地址](https://github.com/VirgilClyne/iRingo)|解锁完整的Apple功能和集成服务
-|:white_check_mark:CUBOX|[:link:链接地址](https://raw.kgithub.com/deezertidal/shadowrocket-rules/main/modules/cubox.sgmodule)|文件收集整理
+|:white_check_mark:CUBOX|[:link:链接地址](https://raw.github.com/deezertidal/shadowrocket-rules/main/modules/cubox.sgmodule)|文件收集整理
 |:white_check_mark:pandora|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/pandora.module)|订阅管理
 |:white_check_mark:微信阅读积分兑换|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wechatread.module)|请查阅脚本内教程
 |:white_check_mark:来音智能陪练|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ly.module)|音乐训练
 |:white_check_mark:熊掌记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/xzj.module)|笔记类
-|❌Notboring|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/notboring.module)|解锁天气 闹钟 习惯
 |:white_check_mark:如期|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/rq.module)|扫码
 |:white_check_mark:CEO周课|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ceo.module)|CEO周课
 |:white_check_mark:Fileball|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/fileball.module)|文件管理
@@ -275,44 +271,37 @@
 |:white_check_mark:Watchout|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/watchout.module)|桌面美化
 |:white_check_mark:无痕去水印|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/whqsy.module)|图片编辑
 |:white_check_mark:一键换脸|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/yjhl.module)|图片编辑
+|:white_check_mark:Styleart|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/styleart.module)|图片编辑
+|:white_check_mark:7动|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/7dong.module)|健身类
+|:white_check_mark:生活指数定时提醒|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/lifeindex.module)|生活提醒
+|:white_check_mark:油价提醒|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/oil.module)|油价提醒
+|:white_check_mark:海报工厂|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hbgc.module)|图片编辑
+|:white_check_mark:我的番茄|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wdfq.module)|时间管理
+|:white_check_mark:FoMz|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/fomz.module)|相机类
+|:white_check_mark:日杂相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/rzxj.module)|相机类
+|:white_check_mark:古诗词大全|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/gscdq.module)|学习类
+|:white_check_mark:Mondly|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/mondly.module)|外语学习类
+|:white_check_mark:猫头鹰文件|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/mtywj.module)|文件管理
+|:white_check_mark:YouTube去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/YouTubeAd.sgmodule)|画中画，后台播放
+|:white_check_mark:汉堡儿童故事|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/hbetgs.module)|早教类
+|:white_check_mark:iconKiller|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/iconkiller.module)|更改ios图标
+|:white_check_mark:一寸证件照|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/yczjz.module)|证件照
+|:white_check_mark:中华诗词库|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/zhsck.module)|学习类
+|:white_check_mark:字体册|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ztc.module)|系统美化
+|:white_check_mark:配音|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/peiyin.module)|配音app
+|:white_check_mark:AdGuard|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/adguard.module)|去广告app
+|:white_check_mark:阿里云盘签到|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/aliyun.module)|阿里云盘签到
+
+
 
 
 * 如无必要 请勿更新解锁app
 </details>
 
-
-
-<details>
-  <summary>:key:Substore脚本</summary>  
-  
-|:octocat:Sub-Store脚本|:link:链接|:pushpin:操作说明|
-|--|--|--|
-|:white_check_mark:脚本操作：重命名|[:link:链接地址](https://raw.githubusercontent.com/futurkk/Potato/main/Rename/rename.js#input=zh&output=zh&airport=你需要的机场名)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改自己的机场名）
-|:white_check_mark:脚本过滤：筛选80 443端口|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/port-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
-|:white_check_mark:脚本过滤：筛选80,443，vmess,ws节点(免流节点)|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/nodes-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
-|:white_check_mark:脚本操作：修改host混淆|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/vmess-host.js)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改参数）
-</details>
-
-
-<details>
-  <summary>:key:永久签名工具及IPA</summary>  
-  
-|:octocat:签名工具|:link:链接|:pushpin:操作说明|
-|--|--|--|
-|:white_check_mark:TrollStore 永久签名|[:link:教程](https://github.com/deezertidal/shadowrocket-rules/blob/main/TrollStore.MD)|支持iOS14.0-15.4.1
-|:white_check_mark:Youtube.ipa|[:link:链接地址](https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa)|去广告 后台播放音乐 画中画
-|:white_check_mark:微信双开.ipa|[:link:链接地址](https://github.com/zwf234/WeChat/releases/download/%E5%BE%AE%E4%BF%A1%E7%BE%8E%E5%8C%96/WeChatPro_8.0.27.ipa)|双开
-|:white_check_mark:APP降级工具|[:link:链接地址](https://initnil.com/DowngradeApp.txt)|降级工具
-|:white_check_mark:Tiktok.ipa|[:link:链接地址](https://drive.google.com/file/d/1XMbpcMiv2yYEw6ApYG8sCL9oGNbPpcJ5/view?usp=drivesdk)|内置换区功能
-|:white_check_mark:No homebar|[:link:链接地址](https://appdb.to/app/cydia/1900001061)|隐藏屏幕底部横条
-|:white_check_mark:其他.ipa|[:link:链接地址](https://appdb.to/search/?type=cydia)，[:link:链接地址](https://ipa.store)|
-
-</details>
-
-
 <details>
   <summary>:key:配置使用教程</summary>
-  
+
+[配置文件链接](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/shadowrocket_basic.conf)   
 ### :point_down:打开小火箭 点击配置 点击右上角+号  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/1a.png)  
 
@@ -347,6 +336,8 @@
 ### :point_down:返回小火箭 勾选确认  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/17.png)  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/18.png)  
+### :point_down:效果预览图  
+![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/preview.png)  
 </details>
 
  <details>
@@ -357,9 +348,41 @@
 ### :point_down:点击右上角“+”号——将模块链接地址复制粘贴至输入框——下载  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/2sg.png)  
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/3sg.png)  
+
 <br>
 <br>
 </details>
+
+<details>
+  <summary>:key:Substore脚本</summary>  
+  
+|:octocat:Sub-Store脚本|:link:链接|:pushpin:操作说明|
+|--|--|--|
+|:white_check_mark:脚本操作：重命名|[:link:链接地址](https://raw.githubusercontent.com/qwerzl/rename.js/main/rename.js#input=zh&output=zh&airport=你需要的机场名)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改自己的机场名）
+|:white_check_mark:脚本过滤：筛选80 443端口|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/port-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
+|:white_check_mark:脚本过滤：筛选80,443，vmess,ws节点(免流节点)|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/nodes-filter.js)|SubStore-订阅编辑-添加操作-脚本过滤-粘贴链接
+|:white_check_mark:脚本操作：修改host混淆|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/private/main/vmess-host.js)|SubStore-订阅编辑-添加操作-脚本操作-粘贴链接（自行修改参数）
+</details>
+
+
+<details>
+  <summary>:key:永久签名工具及IPA</summary>  
+  
+|:octocat:签名工具|:link:链接|:pushpin:操作说明|
+|--|--|--|
+|:white_check_mark:TrollStore 永久签名|[:link:教程](https://github.com/deezertidal/shadowrocket-rules/blob/main/TrollStore.MD)|支持iOS14.0-15.4.1
+|:white_check_mark:Youtube.ipa|[:link:链接地址](https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa)|去广告 后台播放音乐 画中画
+|:white_check_mark:微信双开.ipa|[:link:链接地址](https://github.com/zwf234/WeChat/releases)|双开
+|:white_check_mark:Appstore++|[:link:链接地址](https://ipa.store/2886.html)|降级工具
+|:white_check_mark:Tiktok.ipa|[:link:链接地址](https://drive.google.com/file/d/1XMbpcMiv2yYEw6ApYG8sCL9oGNbPpcJ5/view?usp=drivesdk)|内置换区功能
+|:white_check_mark:No homebar|[:link:链接地址](https://appdb.to/app/cydia/1900001061)|隐藏屏幕底部横条
+|:white_check_mark:Trollspeed.ipa|[:link:链接地址](https://drive.google.com/file/d/17HIcHpiclJnFi_pAVpc71rTsDAL3JKCn/view)|显示网速
+|:white_check_mark:其他.ipa|[:link:链接地址](https://appdb.to/search/?type=cydia)，[:link:链接地址](https://ipa.store)|
+
+</details>
+
+
+
 
 
  <details>
@@ -448,7 +471,9 @@
 
 |:octocat:机场推荐|:link:链接| :pushpin:套餐价格概况
 |--|--|--|
-|:white_check_mark:白月光|[:link:官网](https://www.bygcloud.com/#/register?code=DX4iT5B4)|IEPL专线。66元/140G/季度，84元/230G/季度，120元/400G/季度
-|:white_check_mark:MagicSchool|[:link:官网](https://2220.it/register?aff=GNs68S4XWT)|10元/120G/月，22.9元/300G/月，本仓库专属八折优惠码shadycn(活动套餐除外)
-|:white_check_mark:EMO|[:link:官网](https://yyds.emovpn.top/#/register?code=7KLxhYOS)|0元300G/月，5元1000G/月
-* 推荐月付或季付
+|:white_check_mark:白月光|[:link:官网](https://www.bygcloud.com/#/register?code=DX4iT5B4)|IEPL专线。66元/140G/季度；84元/230G/季度；120元/400G/季度
+|:white_check_mark:魔法学院|[:link:官网](https://2220.it/register?aff=GNs68S4XWT)|半年35元，每月50G；10元/120G/月
+|:white_check_mark:EMO|[:link:官网](https://yyds.emovpn.top/#/register?code=7KLxhYOS)|0元300G/月；5元1000G/月
+****
+* 不是大佬 没有TG群组 仅分享不负责维护  
+* [:link:个人博客](https://ybnet.ga)
